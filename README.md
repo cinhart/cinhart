@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cinhart!
+- 🌱 I’m currently in second year of engineering school
