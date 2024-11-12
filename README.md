@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @cinhart!
-- 🌱 I’m currently in second year of engineering school
+- 👋 Hi, @cinhart here!
+- 🎓 I am a multimedia engineer since 2023
+- 🌱 I am currently studying Cybersecurity to strenghten my skills
