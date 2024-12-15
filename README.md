@@ -1,3 +1,3 @@
 - 👋 Hi, @cinhart here!
-- 🎓 I am a multimedia engineer since 2023
-- 🌱 I am currently studying Cybersecurity to strenghten my skills
+- 🎓 Multimedia engineer since 2023
+- 🌱 Currently studying Cybersecurity to strenghten my skills
